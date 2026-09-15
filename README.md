@@ -17,7 +17,7 @@ A simple Todo REST API built with Node.js and Express. The application uses in-m
 
 Request body:
 
-```json
+json
 {
   "title": "Learn Docker"
 }
